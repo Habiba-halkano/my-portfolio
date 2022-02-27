@@ -1,0 +1,55 @@
+body {
+    background-color: turquoise;
+    color: beige;
+    
+}
+
+h1{
+    color: blue;
+}
+.container{
+
+    margin: 150px auto;
+    width: 50%;
+    padding: 8px;
+}
+
+
+img{
+    float: right;
+    width: 300px;
+    height: 250px;
+    padding: 0 10px 0 0;
+
+}
+.text{
+
+    text-align: justify;
+    font-family: sans-serif;
+
+}
+
+body {
+  background-image: url("hello.jpg");
+  background-color: blue;
+}
+
+button{
+    background-color: #333333;
+    border-radius: 5px;
+    color: #00FF00;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+div1{
+    color:orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color: orangered;
+    font-weight: 900;
+}
